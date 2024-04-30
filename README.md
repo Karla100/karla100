@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá, me chamo Kevinly 👋
+Sou desenvolvedor de software e estudante perpétuo na área de tecnologia. Atualmente com foco em desenvolver minhas habilidades em JavaScript
 
-<!--
-**Karla100/karla100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👯 TRABALHO COM BACK-END
+- 😄 Pronouns:ELA/DELA
 
-Here are some ideas to get you started:
+  ![karka100 stats](https://github-readme-stats.vercel.app/api?username=karla100&theme=shadow_red&show_icons=true)
+<div style="display: inline_block"><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+            
+          
+</div>
+          
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) 
+
+
