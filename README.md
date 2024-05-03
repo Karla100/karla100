@@ -4,7 +4,7 @@ Sou desenvolvedor de software e estudante perpétuo na área de tecnologia. Atua
 - 👯 TRABALHO COM BACK-END
 - 😄 Pronouns:ELA/DELA
 
-  ![karka100 stats](https://github-readme-stats.vercel.app/api?username=karla100&theme=shadow_red&show_icons=true)
+  ![karka100 stats](https://github-readme-stats.vercel.app/api?username=karla100&theme=shadow_pinkk&show_icons=true)
 <div style="display: inline_block"><br>
 
             
